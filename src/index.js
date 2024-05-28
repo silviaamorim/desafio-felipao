@@ -26,6 +26,6 @@ let nivel = 1000;
     case (nivel>=10001):
             console.log ("Radiante");
             break;
-    console.log ("O Herói de nome " (nome) + "está no nível de " (nivel));
+    console.log ("O Herói de nome " + nome + " está no nível de " + nivel);
     default: ("Favor inserir apenas numeros");
 }
