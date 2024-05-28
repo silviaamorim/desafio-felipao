@@ -1,5 +1,5 @@
 let nome = "silvia";
-let nivel = 1025;
+let nivel = 0;
  switch (nivel)
  {
     case (nivel<=1000):
